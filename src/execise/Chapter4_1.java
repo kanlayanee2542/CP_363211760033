@@ -27,6 +27,13 @@ public class Chapter4_1 {
         System.out.println("Enter j score 10:");
         int j = scanner.nextInt();
 
+        int totel = a + b + c + d + e + f + g + h + i + j;
+        int avg = totel / 10;
+
+        //display result
+        System.out.println("Totel : " + totel);
+        System.out.println("Average:" + avg);
+
 
 
     }

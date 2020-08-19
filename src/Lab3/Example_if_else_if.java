@@ -36,6 +36,7 @@ public class Example_if_else_if {
             System.out.println("Your grade is A.");
 
             // coding here
+            System.out.println("Please, Input score ");
         }
 
         }
